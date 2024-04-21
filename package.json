@@ -1,6 +1,6 @@
 {
-  "name": "@test/simple-template",
-  "version": "1.0.15",
+  "name": "@hoangcung1804npm/facilis-animi-quisquam",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,8 +10,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/utilcode/simple-template.git"
+    "url": "https://github.com/hoangcung1804npm/facilis-animi-quisquam.git"
   },
   "dependencies": {
+    "@hoangcung1804npm/possimus-mollitia-qui": "^1.0.0",
+    "@omegion1npm/facere-ullam-excepturi-facilis": "^1.0.0"
   }
 }
